@@ -1,0 +1,2 @@
+# airdb.shop
+# airdb.net
